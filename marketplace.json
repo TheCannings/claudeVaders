@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {
+      "name": "claudevaders",
+      "description": "Space Invaders while Claude thinks - a loading screen game inspired by Amiga tape loading",
+      "version": "1.0.0",
+      "path": "."
+    }
+  ]
+}
