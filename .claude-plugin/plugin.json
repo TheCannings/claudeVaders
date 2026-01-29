@@ -1,0 +1,12 @@
+{
+  "name": "claudevaders",
+  "description": "Space Invaders while Claude thinks - a loading screen game",
+  "version": "1.0.0",
+  "author": {
+    "name": "TheCannings",
+    "email": "cannings@gmail.com"
+  },
+  "repository": "https://github.com/TheCannings/claudeVaders",
+  "license": "MIT",
+  "keywords": ["game", "loading", "space-invaders", "hooks", "retro", "amiga"]
+}
